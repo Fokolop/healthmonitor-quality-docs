@@ -17,4 +17,3 @@
 | DevOps инженер | Иван Сидоров | i.sidorov@healthmonitor.com |
 | QA инженер | Елена Козлова | e.kozlova@healthmonitor.com |
 | Security специалист | Дмитрий Орлов | d.orlov@healthmonitor.com |
-EOF
